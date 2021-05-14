@@ -1,0 +1,3 @@
+# exclude trash directories
+/trash/*
+/modules/__pycache__/*

@@ -1,0 +1,6 @@
+{
+    "base": "https://alas-api.herokuapp.com/",
+    "baseApi": "https://alas-api.herokuapp.com/api/",
+    "records": "records",
+    "auth": "auth"
+}
